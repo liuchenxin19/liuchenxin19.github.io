@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chenxin's Homepage"
-description              : "Hi, welcome :) "
+description              : "Tough academic journey ongoing :("
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chenxin LIU"
   avatar           : "白底扩充.png"
-  bio              : "The Hong Kong Polytechnic University"
+  bio              : "Hi, welcome :) "
   location         : "Hong Kong, China"
   employer         :
   pubmed           : 
